@@ -2,7 +2,6 @@
 Create a beautiful chat interface using gradio and smolagents.Must follow the smolagent boilerplate.
 Reference - https://deepwiki.com/huggingface/smolagents/7.2-gradio-web-ui
 
-@sneha Here is the takeaway : 
 
 # Gradio Web UI and smolagents :
 
