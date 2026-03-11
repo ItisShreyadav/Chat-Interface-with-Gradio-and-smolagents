@@ -108,3 +108,8 @@ Then,  build a simple Gradio interface where people can ask questions and get an
  When someone types in a question, it’s sent to SmolAgents, which figures out the best response.
  Finally, Gradio shows this answer clearly, making the whole experience smooth and easy for users.
 ```
+
+
+https://github.com/user-attachments/assets/0196fecb-2d55-469a-a53b-c53352296eb3
+
+
